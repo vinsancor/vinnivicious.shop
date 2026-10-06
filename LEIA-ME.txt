@@ -1,0 +1,10 @@
+BAR BAH RARIDADE — Conteúdo do site
+
+Este pacote contém o código-fonte, imagens, carta proposta, estilos, animações 3D, testes e configurações. Não contém bibliotecas instaladas nem arquivos gerados de produção.
+
+Para executar: instale Bun, abra esta pasta no terminal, execute bun install e depois bun run dev.
+Para testes: bun run test. Para gerar produção: bun run build.
+
+A publicação externa exige hospedagem compatível com TanStack Start; não é um pacote HTML estático para abrir com duplo clique.
+
+As fotos são ilustrativas e a carta é uma proposta editorial. O logo oficial ainda depende do envio pelo proprietário.
